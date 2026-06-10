@@ -18,12 +18,12 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Recent Illinois Institute of Technology graduate with experience in UAV experimentation, computer vision, embedded systems and control systems.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/MoraE_04.jpg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: /assets/resume/resume.pdf # or /assets/resume/resume.pdf
+resume-url: /assets/resume/Emiliano Mora Resume 2026.pdf # or /assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
