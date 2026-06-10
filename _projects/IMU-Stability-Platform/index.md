@@ -7,5 +7,5 @@ skills:
 - Sensor Integration
 - Circuit Design
 - Hardware Debugging
-main-image: ./assets/stability-tray.png
+main-image: /stability-tray.png
 ---
