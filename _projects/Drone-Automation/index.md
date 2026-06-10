@@ -7,5 +7,5 @@ skills:
 - OpenCV Motion Capture
 - ArUco Markers for Pose Estimation
 - Hardware Debugging
-main-image: ./assets/drone-aruco.png
+main-image: /dronearuco.png
 ---
