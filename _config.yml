@@ -47,6 +47,7 @@ skills:
     tools:
     - Python
     - MATLAB
+    - C++
   - category: Robotics and Controls
     tools:
     - PID Control
@@ -65,7 +66,7 @@ skills:
     tools:
     - Rapid Prototyping
     - 3D Printing
-    - Mechanical Assembly Design
+    - Industrial Plate Saws
     - Hardware Integration
     - Test Fixture Development
     - Experimental Validation
