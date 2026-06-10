@@ -8,5 +8,5 @@ skills:
 - Markerless Tracking
 - ArUco Markers for Pose Estimation
 - Hardware Debugging
-main-image: ./assets/markerless-trajectory.png
+main-image: /markerless-trajectory.png
 ---
