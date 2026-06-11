@@ -11,7 +11,7 @@ skills:
 - Flight Data Logging
 - Hardware Debugging
     main-image: /dronearuco.png
-
+---
 Repository
 
 GitHub: Drone Automation
