@@ -5,11 +5,11 @@ title: Drone Automation Using the Crazyflie 2.1+
 description: Development of an autonomous flight framework for the Bitcraze Crazyflie 2.1+, including trajectory generation, onboard state estimation, flight data logging, and a repeatable testing environment for evaluating lightweight control strategies. External trajectory validation is performed through a companion OpenCV-based tracking pipeline.
 skills:
 
-* Python Interfacing
-* Crazyflie Development
-* Autonomous Flight Control
-* Flight Data Logging
-* Hardware Debugging
+- Python Interfacing
+- Crazyflie Development
+- Autonomous Flight Control
+- Flight Data Logging
+- Hardware Debugging
     main-image: /dronearuco.png
 
 Repository
