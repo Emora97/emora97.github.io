@@ -8,7 +8,7 @@ skills:
   - Autonomous Flight Control
   - Flight Data Logging
   - Hardware Debugging
-main-image: /dronearuco.png"
+main-image: /dronearuco.png
 ---
 
 ## Repository
