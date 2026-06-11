@@ -23,3 +23,4 @@ Overview
 This project establishes a repeatable experimental framework for autonomous microdrone flight using the Bitcraze Crazyflie 2.1+ platform. The software supports trajectory execution, onboard telemetry logging, and post-processing for performance evaluation.
 
 A companion OpenCV-based computer vision pipeline is maintained separately to provide external trajectory validation and ground-truth comparison using ArUco markers and markerless tracking techniques.
+---
