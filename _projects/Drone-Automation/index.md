@@ -12,8 +12,6 @@ skills:
 * Hardware Debugging
     main-image: /dronearuco.png
 
----
-
 Repository
 
 GitHub: Drone Automation
