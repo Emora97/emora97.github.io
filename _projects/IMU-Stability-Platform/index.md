@@ -9,4 +9,5 @@ skills:
 - Hardware Debugging
 main-image: /stability-tray.png
 ---
-[Benchtop Test Footage]https://drive.google.com/drive/folders/1SUl1MkvRri3OJo2epSMrh16V7rkKxTcO
+## Benchtop Test Footage
+**Google Drive Folder** [Benchtop Test Footage](https://drive.google.com/drive/folders/1SUl1MkvRri3OJo2epSMrh16V7rkKxTcO)
