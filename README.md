@@ -1,6 +1,6 @@
 emora97.github.io
 
-Personal engineering portfolio website for Emiliano Mora, showcasing research projects, robotics development, and mechanical engineering design work.
+Personal engineering portfolio website showcasing research projects, robotics development, and mechanical engineering design work.
 
 About
 
