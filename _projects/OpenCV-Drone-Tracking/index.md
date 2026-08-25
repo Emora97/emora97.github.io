@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Drone Tracking Using OpenCV
-description: Development of a software library for positional tracking of micro drones using OpenCV
+description: Development of a software library for positional tracking of micro drones using OpenCV. Library includes scripts for camera calibration, marker-based and markerless tracking, and visual comparisons between drone's on-board data logs and motion capture data.
 skills:
 - Python Interfacing
 - Camera Calibration
-- Markerless Tracking
-- ArUco Markers for Pose Estimation
-- Hardware Debugging
+- OpenCV-Based Tracking Methods
+- Environmental Optimization
+- Error Assessment and Resolution
 main-image: /markerless-trajectory.png
 ---
 **GitHub:** [OpenCV Tracking](https://github.com/Emora97/OpenCV-Tracking)
